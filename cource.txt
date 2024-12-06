@@ -1,0 +1,18 @@
+git init
+
+git status
+
+git add *
+
+git commit -m
+
+git log
+
+git revert
+
+git push
+
+git pull 
+
+git clone 
+
